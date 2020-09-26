@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2018 IEEE Wireless Communications and Networking Conference (WCNC)
-publication_short: IEEE WCNC
+#publication_short: IEEE WCNC
 
 abstract: In this paper, we are interested in determining the cumulative distribution function of the sum of α - μ random variables in the setting of rare event simulations. To this end, we present an efficient importance sampling estimator. The main result of this work is the bounded relative error property of the proposed estimator. This result is used to accurately estimate the outage probability of multibranch maximum ratio combining and equal gain diversity receivers over α-μ fading channels. Selected numerical simulations are discussed to show the robustness of our estimator compared to naive Monte Carlo.
 
