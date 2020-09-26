@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Wireless Communications
-publication_short: IEEE TWC
+#publication_short: IEEE TWC
 
 abstract: In this paper, we are interested in determining the cumulative distribution function of the sum of α-μ, κ-μ, and η-μ random variables in the setting of rare event simulations. To this end, we present a simple and efficient importance sampling approach. The main result of this work is the bounded relative error property of the proposed estimators. Capitalizing on this result, we accurately estimate the outage probability of multibranch maximum ratio combining and equal gain diversity receivers over α-μ, κ-μ, and η-μ fading channels. Selected numerical simulations are discussed to show the robustness of our estimators compared with naive Monte Carlo estimators.
 
