@@ -21,7 +21,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Arxiv pre-Preprint
-publication_short: Arxiv
+#publication_short: Arxiv
 
 abstract: In this article, we propose a communication-efficient decentralized machine learning (ML) algorithm, coined quantized group ADMM (Q-GADMM). To reduce the number of communication links, every worker in Q-GADMM communicates only with two neighbors, while updating its model via the group alternating direct method of multiplier (GADMM). Next, each worker quantizes its model updates before transmission, thereby decreasing the communication payload size. However, due to the lack of centralized entity in decentralized ML, the communication link sparsification and payload compression may incur error propagation, hindering model training convergence. To overcome this, we develop a novel stochastic quantization method to adaptively adjust model quantization levels and their probabilities, while proving the convergence of Q-GADMM for convex objective functions. Furthermore, to demonstrate the feasibility of Q-GADMM for non-convex objective functions, we propose quantized stochastic GADMM (Q-SGADMM) that incorporates deep neural network architectures and stochastic gradient decent (SGD). Simulation results corroborate that Q-GADMM yields 7x less total communication cost while achieving almost the same accuracy and convergence speed compared to GADMM without quantization for a linear regression task. Similarly, for an image classification task, Q-SGADMM achieves 4x less total communication cost with identical accuracy and convergence speed compared to its counterpart without quantization, i.e., stochastic GADMM (SGADMM).
 
