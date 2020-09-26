@@ -71,4 +71,4 @@ user_groups:
 ---
 
 Chaouki Ben Issaid is a Postdoctoral Researcher at the [Intelligent Connectivity and Networks/Systems Group (ICON)](https://sites.google.com/view/dr-mehdi-bennis/home), the University of Oulu, Finland. He received the Diplôme d’Ingénieur from l’École Polytechnique de Tunisie, La Marsa, Tunisia,
-in 2013. He obtained his M.Sc. degree in applied mathematics and computational science and his Ph.D. degree in statistics in 2015 and 2019, respectively, from King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. His current research interests include coomunication-efficient distributed machine learning and efficient Monte Carlo simulations for rare event estimation.
+in 2013. He obtained his M.Sc. degree in applied mathematics and computational science and his Ph.D. degree in statistics from King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia in 2015 and 2019, respectively. His current research interests include coomunication-efficient distributed machine learning and efficient Monte Carlo simulations for rare event estimation.
