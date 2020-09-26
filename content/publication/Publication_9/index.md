@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Communications
-publication_short: IEEE TCom
+#publication_short: IEEE TCom
 
 abstract: The level crossing rate (LCR) and the average outage duration (AOD) are two important second order statistics that allow a deeper understanding of the behavior of the channel. In this paper, we study these metrics in order to assess the performance of free space optical (FSO) communication links in the presence of weak atmospheric turbulence and rice-induced pointing errors. More specifically, we derive an integral and a Gauss-Laguerre quadrature representation for both the LCR and the AOD in the single hop case and for their respective bounds in the multihop case. Selected numerical simulations are presented to show the accuracy of the derived results and to study the effect of certain system parameters on these two performance metrics.
 
