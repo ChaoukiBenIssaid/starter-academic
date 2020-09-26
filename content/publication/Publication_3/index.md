@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication:  IEEE Transactions on Communications
-publication_short: IEEE TCom
+#publication_short: IEEE TCom
 
 abstract: The Gamma-Gamma distribution has recently emerged in a number of applications ranging from modeling scattering and reverberation in sonar and radar systems to modeling atmospheric turbulence in wireless optical channels. In this respect, assessing the outage probability achieved by some diversity techniques over this kind of channels is of major practical importance. In many circumstances, this is related to the difficult question of analyzing the statistics of a sum of Gamma-Gamma random variables. Answering this question is not a simple matter. This is essentially because outage probabilities encountered in practice are often very small, and hence, the use of classical Monte Carlo methods is not a reasonable choice. This lies behind the main motivation of this paper. In particular, this paper proposes a new approach to estimate the left tail of the sum of Gamma-Gamma variates. More specifically, we propose robust importance sampling schemes that efficiently evaluates the outage probability of diversity receivers over Gamma-Gamma fading channels. The proposed estimators satisfy the well-known bounded relative error criterion for both maximum ratio combining and equal gain combining cases. We show the accuracy and the efficiency of our approach compared with naive Monte Carlo via some selected numerical simulations.
 
