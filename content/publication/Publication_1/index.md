@@ -1,5 +1,5 @@
 ---
-title: "[C] Fast Outage Probability Simulation for FSO Links with a Generalized Pointing Error Model"
+title: "Fast Outage Probability Simulation for FSO Links with a Generalized Pointing Error Model"
 authors:
 - Chaouki Ben Issaid
 - Ki-Hong Park
