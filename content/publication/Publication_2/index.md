@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2016 IEEE Global Conference on Signal and Information Processing (GlobalSIP)
-publication_short: IEEE GlobalSIP
+#publication_short: IEEE GlobalSIP
 
 abstract: The Gamma-Gamma distribution has recently emerged in a number of applications ranging from modeling scattering and reverberation in sonar and radar systems to modeling atmospheric turbulence in wireless optical channels. In this respect, assessing the outage probability achieved by some diversity techniques over this kind of channels is of major practical importance. In many circumstances, this is intimately related to the difficult question of analyzing the statistics of a sum of Gamma-Gamma random variables. Answering this question is not a simple matter. This is essentially because outage probabilities encountered in practice are often very small, and hence the use of classical Monte Carlo methods is not a reasonable choice. This lies behind the main motivation of the present work. In particular, this paper proposes a new approach to estimate the left tail of the sum of independent and identically distributed Gamma-Gamma variates. More specifically, we propose a mean-shift importance sampling scheme that efficiently evaluates the outage probability of L-branch maximum ratio combining diversity receivers over Gamma-Gamma fading channels. The proposed estimator satisfies the well-known bounded relative error criterion. We show the accuracy and the efficiency of our approach compared to naive Monte Carlo via some selected numerical simulations.
 
