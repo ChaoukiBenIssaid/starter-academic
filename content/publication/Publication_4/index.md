@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication:  IEEE Transactions on Wireless Communications
-publication_short: IEEE TWC
+#publication_short: IEEE TWC
 
 abstract: When assessing the performance of the free space optical (FSO) communication systems, the outage probability encountered is generally very small, and thereby the use of nave Monte Carlo simulations becomes prohibitively expensive. To estimate these rare event probabilities, we propose in this paper an importance sampling approach which is based on the exponential twisting technique to offer fast and accurate results. In fact, we consider a variety of turbulence regimes, and we investigate the outage probability of FSO communication systems, under a generalized pointing error model based on the Beckmann distribution, for both single and multihop scenarios. Selected numerical simulations are presented to show the accuracy and the efficiency of our approach compared with naive Monte Carlo.
 
