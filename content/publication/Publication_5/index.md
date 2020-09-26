@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Photonics Journal
-publication_short: IEEE Photonics
+#publication_short: IEEE Photonics
 
 abstract: In this paper, we present an efficient importance sampling estimator for the evaluation of the outage probability of multihop systems with amplify-and-forward channel state-information-assisted. The proposed estimator is endowed with the bounded relative error property. Simulation results show a significant reduction in terms of number of simulation runs compared to naive Monte Carlo.
 
