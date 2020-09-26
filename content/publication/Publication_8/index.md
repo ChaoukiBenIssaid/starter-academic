@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: OSA Advanced Photonics Congress
-publication_short: OSA Photonics
+#publication_short: OSA Photonics
 
 abstract: We propose the use of a convolutional neural network (CNN) to detect single and superpositions of Laguerre Gaussian modes in an underwater environment which will open the doors towards fast and reliable underwater optical wireless communications.
 
