@@ -1,7 +1,7 @@
 ---
 title: 'New Paper Accepted'
 subtitle: 'Create a beautifully simple website in under 10 minutes'
-summary: Create a beautifully simple website in under 10 minutes.
+summary: Our Paper [**Q-GADMM Quantized Group ADMM for Communication Efficient Decentralized Machine Learning**] has been accepted in IEEE Transactions on Communications.
 authors:
 - admin
 tags:
