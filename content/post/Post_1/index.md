@@ -7,7 +7,7 @@ authors:
 tags: []
 categories: []
 date: "2020-02-10T00:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -17,7 +17,7 @@ image:
   focal_point: ""
 
 projects: []
----
++++
 
 Our paper [**Q-GADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning**](https://ieeexplore.ieee.org/document/9205203), joint work with Anis Elgabli, [**Jihong Park **](https://sites.google.com/view/jihong-park/),  [**Amrit S. Bedi**](https://sites.google.com/view/amritsinghbedi), [**Mehdi Bennis**](https://sites.google.com/view/dr-mehdi-bennis/) and [**Vaneet Aggarwal**](https://web.ics.purdue.edu/~vaneet/), has been accepted in IEEE Transactions on Communications.
 
