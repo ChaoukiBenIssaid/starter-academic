@@ -1,6 +1,6 @@
 ---
 title: 'New Paper Accepted'
-subtitle: 'Our Paper [**Q-GADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning**] has been accepted in IEEE Transactions on Communications.'
+subtitle: 'Our Paper Q-GADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning has been accepted in IEEE Transactions on Communications.'
 summary: Our Paper [**Q-GADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning**] has been accepted in IEEE Transactions on Communications.
 authors:
 - admin
