@@ -1,5 +1,5 @@
 ---
-title: 'Academic: the website builder for Hugo'
+title: 'Our Paper [**Q-GADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning**] has been accepted in IEEE Transactions on Communications.'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
