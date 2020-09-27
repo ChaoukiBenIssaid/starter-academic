@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -31,7 +31,7 @@ image:
 projects: []
 ---
 
-Our paper [**Q-GADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning**](https://ieeexplore.ieee.org/document/9205203), joint work with Anis Elgabli, [**Jihong Park **](https://sites.google.com/view/jihong-park/),  [**Amrit S. Bedi**](https://sites.google.com/view/amritsinghbedi), [**Mehdi Bennis**](https://sites.google.com/view/dr-mehdi-bennis/) and [**Vaneet Aggarwal**](https://web.ics.purdue.edu/~vaneet/), has been accepted in IEEE Transactions on Communications.
+Our paper [**Q-GADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning**](https://ieeexplore.ieee.org/document/9205203), joint work with Anis Elgabli, [**Jihong Park**](https://sites.google.com/view/jihong-park/),  [**Amrit S. Bedi**](https://sites.google.com/view/amritsinghbedi), [**Mehdi Bennis**](https://sites.google.com/view/dr-mehdi-bennis/) and [**Vaneet Aggarwal**](https://web.ics.purdue.edu/~vaneet/), has been accepted in IEEE Transactions on Communications.
 
 Abstract:
 
