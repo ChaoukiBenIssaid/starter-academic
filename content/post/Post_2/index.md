@@ -1,7 +1,7 @@
 ---
 title: 'New Paper Accepted'
-subtitle: 'Our Paper QGADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning has been accepted in IEEE Transactions on Communications.'
-summary: Our Paper QGADMM: Quantized Group ADMM for Communication Efficient Decentralized Machine Learning has been accepted in IEEE Transactions on Communications.
+subtitle: 'Create a beautifully simple website in under 10 minutes'
+summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
 tags:
