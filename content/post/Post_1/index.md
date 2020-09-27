@@ -7,7 +7,7 @@ authors:
 tags: []
 categories: []
 date: "2020-02-10T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
