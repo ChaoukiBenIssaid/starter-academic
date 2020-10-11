@@ -54,7 +54,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ChaoukiBenIssaid
- - icon: orcid
+- icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-4481-8168
 # Link to a PDF of your resume/CV from the About widget.
