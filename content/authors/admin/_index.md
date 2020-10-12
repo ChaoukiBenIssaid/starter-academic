@@ -51,9 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZG7kpNcAAAAJ
-- icon: github
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/ChaoukiBenIssaid
+  link: https://www.researchgate.net/profile/Chaouki_Ben_Issaid
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-4481-8168
