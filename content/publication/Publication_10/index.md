@@ -14,10 +14,10 @@ publishDate: "2019-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv pre-Preprint
+publication: IEEE Wireless Communications Letters
 #publication_short: Arxiv
 
 abstract: Estimating the left tail of quadratic forms in Gaussian random vectors is of major practical importance in many applications. In this paper, we propose an efficient and robust importance sampling estimator that is endowed with the bounded relative error property. This property significantly reduces the number of simulation runs required by the proposed estimator compared to naive Monte Carlo. Thus, our importance sampling estimator is especially useful when the probability of interest is very small. Selected simulation results are presented to illustrate the efficiency of our estimator compared to naive Monte Carlo in both central and non-central cases, as well as both real and complex settings.
