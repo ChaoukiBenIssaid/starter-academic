@@ -1,5 +1,5 @@
 ---
-title: "Efficient Monte Carlo Simulation of the Left Tail of Positive Gaussian Quadratic Form"
+title: "Efficient Importance Sampling for the Left Tail of Positive Gaussian Quadratic Forms"
 authors:
 - Chaouki Ben Issaid
 - Raul Tempone
