@@ -1,7 +1,7 @@
 ---
 title: 'New Paper Accepted'
 subtitle: ' '
-summary: Our Paper **Efficient Importance Sampling for the Left Tail of Positive Gaussian Quadratic Forms** has been accepted in IEEE Transactions on Communications.
+summary: Our Paper **Efficient Importance Sampling for the Left Tail of Positive Gaussian Quadratic Forms** has been accepted in IEEE Wireless Communications Letters.
 authors:
 - admin
 tags:
