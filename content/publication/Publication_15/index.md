@@ -1,8 +1,8 @@
 ---
-title: "User Clustering for MIMO NOMA via Classifier Chains and Gradient-Boosting Decision Tree"
+title: "User Clustering for MIMO NOMA via Classifier Chains and Gradient Boosting Decision Tree"
 authors:
 - Chaouki Ben Issaid
-- Carles Anton-Haro
+- Carles Anton Haro
 - Xavier Mestre
 - Mohamed-Slim Alouini
 
