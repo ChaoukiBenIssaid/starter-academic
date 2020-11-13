@@ -25,7 +25,7 @@ abstract: Estimating the left tail of quadratic forms in Gaussian random vectors
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/abs/1901.09174
+url_pdf: https://ieeexplore.ieee.org/document/9250477
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf
