@@ -26,7 +26,7 @@ abstract: In this paper, we propose a data-driven approach to group users in a N
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 
+# url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf
