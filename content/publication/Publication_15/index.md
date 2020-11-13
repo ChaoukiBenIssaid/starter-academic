@@ -1,5 +1,5 @@
 ---
-title: "Communication Efficient Distributed Learning with Censored, Quantized, and Generalized Group ADMM"
+title: "User Clustering for MIMO NOMA via Classifier Chains and Gradient-Boosting Decision Tree"
 authors:
 - Chaouki Ben Issaid
 - Anis Elgabli
