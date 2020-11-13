@@ -2,9 +2,9 @@
 title: "User Clustering for MIMO NOMA via Classifier Chains and Gradient-Boosting Decision Tree"
 authors:
 - Chaouki Ben Issaid
-- Anis Elgabli
-- Jihong Park
-- Mehdi Bennis
+- Carles Anton-Haro
+- Xavier Mestre
+- Mohamed-Slim Alouini
 
 date: "2020-09-01T00:00:00Z"
 doi: ""
