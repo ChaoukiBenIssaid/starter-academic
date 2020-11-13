@@ -6,7 +6,7 @@ authors:
 - Xavier Mestre
 - Mohamed-Slim Alouini
 
-date: "2020-09-01T00:00:00Z"
+date: "2020-11-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ publishDate: "2019-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv preprint
+publication: IEEE Access
 #publication_short: Arxiv
 
 abstract: In this paper, we propose a communication-efficiently decentralized machine learning framework that solves a consensus optimization problem defined over a network of inter-connected workers. The proposed algorithm, Censored-and-Quantized Generalized GADMM (CQ-GGADMM), leverages the novel worker grouping and decentralized learning ideas of Group Alternating Direction Method of Multipliers (GADMM), and pushes the frontier in communication efficiency by extending its applicability to generalized network topologies, while incorporating link censoring for negligible updates after quantization. We theoretically prove that CQ-GGADMM achieves the linear convergence rate when the local objective functions are strongly convex under some mild assumptions. Numerical simulations corroborate that CQ-GGADMM exhibits higher communication efficiency in terms of the number of communication rounds and transmit energy consumption without compromising the accuracy and convergence speed, compared to the benchmark schemes based on censored decentralized ADMM, and/or the worker grouping method of GADMM.
