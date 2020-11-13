@@ -22,12 +22,12 @@ publication_types: ["2"]
 publication: IEEE Access
 #publication_short: Arxiv
 
-abstract: In this paper, we propose a data-driven approach to group users in a Non-Orthogonal Multiple Access (NOMA) MIMO setting. Specifically, we formulate user clustering as a multi-label classification problem and solve it by coupling a Classifier Chain (CC) with a Gradient Boosting Decision Tree (GBDT), namely, the LightGBM algorithm. The performance of the proposed CC-LightGBM scheme is assessed via numerical simulations. For benchmarking, we consider two classical adaptation learning schemes: Multi-Label k-Nearest Neighbours (ML-KNN) and Multi-Label Twin Support Vector Machines (ML-TSVM), as well as other naive approaches. Besides, we also compare the computational complexity of the proposed scheme with those of the aforementioned benchmarks.
+abstract: In this paper, we propose a data-driven approach to group users in a Non-Orthogonal Multiple Access (NOMA) MIMO setting. 
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2009.06459.pdf
+# url_pdf: https://arxiv.org/pdf/2009.06459.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf
