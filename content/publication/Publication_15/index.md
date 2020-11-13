@@ -1,12 +1,12 @@
 ---
-title: "User Clustering for MIMO NOMA via Classifier Chains and Gradient-Boosting Decision Tree"
+title: "Communication Efficient Distributed Learning with Censored, Quantized, and Generalized Group ADMM"
 authors:
 - Chaouki Ben Issaid
-- Carles Anton-Haro
-- Xavier Mestre
-- Mohamed-Slim Alouini
+- Anis Elgabli
+- Jihong Park
+- Mehdi Bennis
 
-date: "2020-11-06T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
