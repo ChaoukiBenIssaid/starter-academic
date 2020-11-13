@@ -1,12 +1,12 @@
 ---
-title: "User Clustering for MIMO NOMA via Classifier Chains and Gradient Boosting Decision Tree"
+title: "User Clustering for MIMO NOMA via Classifier Chains and Gradient-Boosting Decision Tree"
 authors:
 - Chaouki Ben Issaid
-- Carles Anton Haro
+- Carles Anton-Haro
 - Xavier Mestre
 - Mohamed-Slim Alouini
 
-date: "2020-11-11T00:00:00Z"
+date: "2020-11-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,6 +17,7 @@ publishDate: "2019-01-01T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
+#publication_short: Arxiv
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Access
