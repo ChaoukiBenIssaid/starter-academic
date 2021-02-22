@@ -22,6 +22,7 @@ organizations:
 
 interests:
 - Distributed Optimization
+- Federated Learning
 - Machine Learning
 - Efficient Monte Carlo Simulations
 
